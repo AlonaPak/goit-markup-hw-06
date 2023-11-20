@@ -183,7 +183,7 @@ body {
 
 /* ============== HERO STYLES ============== */
 .page-hero {
-    isplay: flex;
+    display: flex;
     align-items: center;
     flex-direction: column;
     margin: auto;
